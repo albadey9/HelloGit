@@ -1,4 +1,2 @@
 hellogit2
-nuevo texto
-nuevo texto
-nuevo texto
+Version repositorio. Version 2
